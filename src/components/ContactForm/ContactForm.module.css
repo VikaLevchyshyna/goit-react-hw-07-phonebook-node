@@ -1,0 +1,33 @@
+.form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.label {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.input {
+  display: block;
+  padding: 10px;
+  width: 50%;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+
+.button {
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: 1px solid black;
+  cursor: pointer;
+  color: rgb(0, 0, 0);
+  background-color: rgb(226, 241, 241);
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+}

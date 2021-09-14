@@ -1,0 +1,17 @@
+.label {
+  display: block;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  color: rgb(94, 190, 235);
+}
+
+.input {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}

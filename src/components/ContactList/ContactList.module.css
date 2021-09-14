@@ -1,0 +1,21 @@
+.list {
+  font-weight: 500;
+  font-size: 18px;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  margin: 10px 20px;
+}
+
+.button {
+  height: 40px;
+  margin-left: 15px;
+  cursor: pointer;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: rgb(207, 218, 218);
+}

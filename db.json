@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "Serg Larson",
+      "number": "123-45-67"
+    },
+    {
+      "name": "Emma Li",
+      "number": "987-65-43"
+    },
+    {
+      "name": " Madonna Louise",
+      "number": "549-65-88"
+    }
+  ]
+}
